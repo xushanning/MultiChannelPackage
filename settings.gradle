@@ -1,0 +1,5 @@
+rootProject.name='MultiChannelPackage'
+include ':app'
+include ':module_huawei'
+include ':module_xiaomi'
+include ':common_lib'
